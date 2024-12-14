@@ -39,5 +39,5 @@ Bem-vindo ao meu GitHub! Aqui você encontrará projetos que demonstram minha pa
 ---
 
 ## 📫 Contato
-- [LinkedIn]([https://www.linkedin.com/in/rodrigo-de-ara%C3%BAjo-tem%C3%B3teo-42020317?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [LinkedIn](https://www.linkedin.com/in/rodrigo-de-ara%C3%BAjo-tem%C3%B3teo-42020317?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - Email: rodrigoa.temoteo@gmail.com
