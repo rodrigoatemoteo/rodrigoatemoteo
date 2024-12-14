@@ -6,7 +6,7 @@ Bem-vindo ao meu GitHub! Aqui você encontrará projetos que demonstram minha pa
 
 # ⚠️ Repositório em reestruturação!
 
-# As informações abaixo estão sendo utilizadas para planejar a reestruturação deste repositório. Não, necessariamente, refletem a realidade!    
+## As informações abaixo estão sendo utilizadas para planejar a reestruturação deste repositório. Não, necessariamente, refletem a realidade!    
 
 ## 🚀 Habilidades
 - **Linguagens**: JavaScript (ES6+), HTML5, CSS3, Python, Java
